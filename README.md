@@ -1,4 +1,4 @@
-# Projet : Application de gestion des ressources humaines (RH)**  
+# Projet : Application de gestion des ressources humaines (RH)
 
 Destinataires : Responsables RH des PME et grandes entreprises.  
 
