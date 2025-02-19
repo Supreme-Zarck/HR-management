@@ -34,8 +34,8 @@ Destinataires : Responsables RH des PME et grandes entreprises.
 
 #### Outils recommandés :  
 - Frontend : Angular ou React.js pour l’interface utilisateur.  
-- Backend : Spring Boot (Java) ou Flask (Python) pour le serveur d’application.  
-- Base de données : PostgreSQL ou MongoDB pour les données des employés.  
+- Backend : Laravel (php) pour le serveur d’application.  
+- Base de données : PhpMyAdmin pour les données des employés.  
 - Sécurité : Authentification OAuth2, gestion des rôles et permissions.  
 - Intégration : Services de paie comme PayFit, API pour les documents (Google Drive).  
 - Déploiement : Docker + Kubernetes pour la gestion des conteneurs.  
